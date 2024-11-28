@@ -1,4 +1,7 @@
 # Stochastic series expansion algorithm for S=1/2 AFM Heisenberg model
+
+## Rust, yes!
+
 I mean no offense, but I believe that old-fashioned languages like Fortran, which lack modern features, should fade out of history rather than continue to accumulate 'legacy' code. 
 
 As for C++, I was once a C++ user, but the memory safety issues often drive me crazy. 
