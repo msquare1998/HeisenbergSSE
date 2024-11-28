@@ -1,5 +1,7 @@
 # Stochastic series expansion algorithm for S=1/2 AFM Heisenberg model
 
+This project reproduces the same algorithm as that in https://physics.bu.edu/~sandvik/programs/ssebasic/ssebasic.html
+
 ## Rust, yes!
 
 I mean no offense, but I believe that old-fashioned languages like Fortran, which lack modern features, should fade out of history rather than continue to accumulate 'legacy' code. 
