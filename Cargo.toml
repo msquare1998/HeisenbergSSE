@@ -1,7 +1,8 @@
 [package]
 name = "HM_2D"
 version = "0.1.0"
-edition = "2021"
+author = "Yi-Ming Ding"
+edition = "2024"
 
 [dependencies]
 prng_mt = "0.1.0"
